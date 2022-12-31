@@ -9,13 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^1.2.2",
-    "vue": "^3.2.45"
-=======
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
->>>>>>> 5efde295d9d6ff735a8290709cf6f8fc4d20cca4
   },
   "devDependencies": {
     "@quasar/extras": "^1.15.9",
